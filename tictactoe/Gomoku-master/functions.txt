@@ -1,0 +1,8 @@
+--readMove 
+--printBoard
+--isEmpty
+--showPos
+--validMove
+--victory
+--playerMove
+--newBoard

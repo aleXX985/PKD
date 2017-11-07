@@ -1,0 +1,4 @@
+myInit :: [a] -> [a]
+myInit [] = []
+myInit (x:[]) = []
+myInit x:xs = (x:myInit xs)

@@ -1,0 +1,2 @@
+stringOfInteger :: Integer -> String
+stringOfInteger a b = if a < 10 && a >= 0 then a = 'a' else (a`mod`b)
